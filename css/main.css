@@ -23,7 +23,7 @@ section {
 
   hover-box:hover h2,
   hover-box: focus h2 {
-    bottom: 0
+    bottom: 0;
   }
 
   .hover-box h2 {
